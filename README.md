@@ -1,8 +1,5 @@
 
 ### Hello everyone!!   
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm Ibai, blockchain developer  👨‍💻 , passionate about this technology and cybersecurity , always trying to learn something new.🧑‍🎓</div>  
