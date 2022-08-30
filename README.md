@@ -1,13 +1,12 @@
 Hi 👋 My name is Ibai
 =====================
 
-Blockchain developer
+
 --------------------
 
 Passionate about blockchain technology and cybersecurity , every day trying to learn something new
 
-*   🌍  I'm based in Pamplona Spain
-*   🖥️  See my portfolio at [ibcaos](http://https://github.com/ibcaos)
+*   🌍  I'm located in Pamplona, Spain
 *   🧠  I'm learning about EVM (Ethereum Virtual Machine) and gas optimization techniques with Solidity.
 *   ⚡  I hate newline opening curly braces🤷
 
